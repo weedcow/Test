@@ -8,20 +8,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>HELLO</h1>
-	<h1>HELLO</h1>
-	<p>Jeg prøver LIIIIIGE AT ændre noget - 4 april!</p>
-	<h2>Jeg har lavet en local branch</h2>
-	<p> I am a second commit </p>
-	<p>Johan was here</p>
-	
-	<p>Jeg elsker Ændringer!</p>
-	
-	<p>HEJ</p>
-	
-	
-	<h1>ny branch</h1> 
-	
-	<p>NY OPDATERING</p>
+
 </body>
 </html>
