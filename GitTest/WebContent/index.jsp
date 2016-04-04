@@ -14,5 +14,7 @@
 	<h2>Jeg har lavet en local branch</h2>
 	<p> I am a second commit </p>
 	<p>Johan was here</p>
+	
+	<p>Jeg elsker Ændringer!</p>
 </body>
 </html>
